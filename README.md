@@ -36,11 +36,9 @@
 
 これにより、アノテーション対象のデータと、タイムライン上に発話のテキストデータが表示されます。
 
-## 画像1
-![Image 1](images/image1.jpg)
+![Image 1](images/image1.png)
 
-## 画像2
-![Image 2](images/image2.jpg)
+![Image 2](images/image2.png)
 
 ---
 
