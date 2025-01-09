@@ -28,6 +28,10 @@
      roslaunch annotation.launch
      ```
 - launch ファイルでは、アノテーションツールと音声再生用ノードが起動します。
+- オーディオ再生ノードにaudio_playパッケージを使用しているため、起動しなかった場合、以下のコマンドでインストールしてください。
+     ```bash
+     sudo apt install ros-noetic-audio-common
+     ```
 
 ## 4. アノテーションファイルを開く
 
